@@ -67,6 +67,16 @@ This tool is intended for educational and experimental purposes only. It is not 
 ## Dependencies
 - Python 3.x (with standard libraries: `os`, `hashlib`, `base64`)
 
+- ## License
+
+Distributed under the Apache 2.0 License. 
+
+**Author**
+Joshua M Clatney (Clats97)
+Ethical Pentesting Enthusiast
+
+Copyright 2025 Joshua M Clatney (Clats97)
+
 ## Author
 Joshua M Clatney - Ethical Pentesting Enthusiast
 
