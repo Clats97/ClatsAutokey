@@ -76,9 +76,3 @@ Joshua M Clatney (Clats97)
 Ethical Pentesting Enthusiast
 
 Copyright 2025 Joshua M Clatney (Clats97)
-
-## Author
-Joshua M Clatney - Ethical Pentesting Enthusiast
-
-## License
-This project is published under the Apache 2.0 License 
